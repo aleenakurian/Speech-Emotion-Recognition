@@ -7,10 +7,10 @@ Welcome to our Speech Emotion Recognition (SER) model's repository – where AI 
 Our SER model is designed to analyze audio recordings and pinpoint six basic emotions: neutral, happy, sad, angry, fearful, and disgust.
 
 **Datasets utilized:**
-•CREMA-D
-•RAVDESS
-•TESS
-•SAVEE
+•[CREMA-D](https://www.kaggle.com/datasets/ejlok1/cremad)
+•[RAVDESS](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio/)
+•[TESS](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
+•[SAVEE](https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee)
 
 **Key Features:**
 
