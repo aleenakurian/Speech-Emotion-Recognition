@@ -6,6 +6,12 @@ Welcome to our Speech Emotion Recognition (SER) model's repository – where AI 
 **Overview:**
 Our SER model is designed to analyze audio recordings and pinpoint six basic emotions: neutral, happy, sad, angry, fearful, and disgust.
 
+**Datasets utilized:**
+•CREMA-D
+•RAVDESS
+•TESS
+•SAVEE
+
 **Key Features:**
 
 👂 **Audio Analysis:**
@@ -39,8 +45,3 @@ Whether it's English, Spanish, or any language in between, our model understands
 🚀 **Tech Savvy:**
    Powered by the latest in deep learning, our model keeps up with the times.
 
-🌐 **Open Source:**
-   Our code is open for tinkering, tweaking, and collaboration. Join the community-driven fun!
-
-**Let's Get Emotional:**
-Explore human expression with our Speech Emotion Recognition model. Elevate your projects, understand your users better, and make AI a bit more human. Dive in and listen to the emotions behind every spoken word.
